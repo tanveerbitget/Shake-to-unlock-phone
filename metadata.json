@@ -1,0 +1,6 @@
+{
+  "name": "ShakeLock",
+  "description": "Lightweight accessibility-powered shake to lock and unlock screen utility for Android 10 and modern devices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

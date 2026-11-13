@@ -1,0 +1,18 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Tilted smartphone body -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M14.7,3.1L8.3,5.4C7.2,5.8 6.6,7.0 7.0,8.1L10.9,19.1C11.3,20.2 12.5,20.8 13.6,20.4L20.0,18.1C21.1,17.7 21.7,16.5 21.3,15.4L17.4,4.4C17.0,3.3 15.8,2.7 14.7,3.1zM18.9,16.2L13.1,18.3L9.5,8.0L15.3,5.9L18.9,16.2z" />
+    <!-- Left shake wave -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M4.6,9.2C3.8,11.1 3.8,13.2 4.6,15.1L6.1,14.5C5.5,12.9 5.5,11.4 6.1,9.8L4.6,9.2z" />
+    <!-- Right shake wave -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M19.8,7.9L18.3,8.5C19.0,10.1 19.0,11.6 18.4,13.2L19.9,13.8C20.7,11.9 20.6,9.8 19.8,7.9z" />
+</vector>

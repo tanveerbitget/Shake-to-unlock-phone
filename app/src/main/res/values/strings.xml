@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShakeLock</string>
+    <string name="accessibility_service_description">Monitors gentle shake gestures to lock or wake your screen without pressing the physical power button. Runs locally with zero data collection.</string>
+    <string name="notification_channel_name">ShakeLock Guard</string>
+    <string name="notification_channel_description">Keeps shake-to-lock and unlock active without Android auto-closing the service.</string>
+    <string name="notification_guard_title">ShakeLock Guard Active</string>
+    <string name="notification_guard_text">Ready: %1$d-shake lock, %2$d-shake unlock</string>
+</resources>
